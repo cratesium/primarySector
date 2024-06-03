@@ -1,4 +1,5 @@
 # Sahaay - Farmer's One Stop Solution
+#https://cratesium.github.io/primarySector/
 
 ## Description
 A software platform designed to assist farmers in making informed decisions and improving their farming practices. The platform utilizes modern technologies to provide real-time updates on weather forecasts, government schemes, seed information, fertilizer details, and technological advancements such as solar panels. 
